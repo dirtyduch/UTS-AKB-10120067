@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">10120067_Application Note</string>
+    <string name="profile">Profile</string>
+    <string name="note">Notes</string>
+    <string name="info">Info</string>
+    <string name="nama">Name : Zulfa Firdaus</string>
+    <string name="kelas">Class : IF2</string>
+    <string name="nim">NIM : 10120067</string>
+    <string name="email">Email : zulfafirdaus15@gmail.com</string>
+    <string name="txt_welcome">Application Notes By Zulfa Firdaus</string>
+    <string name="txt_intro">This application was made to fulfill the UTS assignment requirements for mobile computing applications at the Indonesian Computer University (Unikom).</string>
+    <string name="page1">Page 1 of 2</string>
+    <string name="page2">Page 2 of 2</string>
+    <string name="memo">How to make notes</string>
+    <string name="penjelasan"> Press Notes on the NavBar below, then press the plus sign at the bottom right.</string>
+    <string name="txt_add">Add Note</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
